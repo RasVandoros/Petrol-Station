@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProgrammingAssignement2017.Car">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.HGV">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HGV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.PetrolStationDisplay">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>OcQRgAIYBCIKoBBIDQXR1AlGAgxgSSKAvwIplBAyYxw=</HashCode>
+      <FileName>PetrolStationDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.Program">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAIAAAAEgAAQABAAAgAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.PSManager">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQkAAAQAAAIAAAAAAAAEQAAABBAEEAAYIAAUDCAIAA=</HashCode>
+      <FileName>PSManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.Pump">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAgAAAAIAAAAAAAAAAAAACAEAAAgBAAAAAAAQAAAA=</HashCode>
+      <FileName>Pump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.PumpManager">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>sAQACCAAIAAAACAAgCRgAwCkAAAAAAAAgAiBASAEQQg=</HashCode>
+      <FileName>PumpManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.SaveToFile">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>SaveToFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.Van">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Van.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.VehGenerator">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAiCAAAAAAAAAAAAAEAAAACA=</HashCode>
+      <FileName>VehGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingAssignement2017.Vehicle">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ProgrammingAssignement2017.Vehicle.Fuel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Vehicle.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAgAAAAogACACBAAAEAAAQBgoAEAYDAAIGBAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

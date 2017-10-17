@@ -1,0 +1,16 @@
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Release\ProgrammingAssignement2017.exe.config
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Release\ProgrammingAssignement2017.exe
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Release\ProgrammingAssignement2017.pdb
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.PetrolStationDisplay.resources
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.Properties.Resources.resources
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.csproj.GenerateResource.Cache
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.exe
+C:\Users\Ras\documents\visual studio 2015\Projects\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Release\ProgrammingAssignement2017.exe.config
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Release\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Release\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.PetrolStationDisplay.resources
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.Properties.Resources.resources
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Release\ProgrammingAssignement2017.csproj.GenerateResource.Cache

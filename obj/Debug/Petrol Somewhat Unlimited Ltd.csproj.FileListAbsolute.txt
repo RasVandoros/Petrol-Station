@@ -1,0 +1,28 @@
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe.config
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.PetrolStationDisplay.resources
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.Properties.Resources.resources
+C:\Users\Ras\Desktop\C#\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\Petrol Somewhat Unlimited Ltd.csproj.GenerateResource.Cache
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe.config
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe.config
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.PetrolStationDisplay.resources
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.Properties.Resources.resources
+C:\Users\Ras\Desktop\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\Petrol Somewhat Unlimited Ltd.csproj.GenerateResource.Cache
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe.config
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.exe
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\bin\Debug\ProgrammingAssignement2017.pdb
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\Petrol Somewhat Unlimited Ltd.csprojResolveAssemblyReference.cache
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.PetrolStationDisplay.resources
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\ProgrammingAssignement2017.Properties.Resources.resources
+C:\Users\Ras\Desktop\deskt\Year1Sem2\ProgrammingAssignement2017\Project\ProgrammingAssignement2017\obj\Debug\Petrol Somewhat Unlimited Ltd.csproj.GenerateResource.Cache

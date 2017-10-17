@@ -1,0 +1,9 @@
+Total Earnings: 0
+Total Diesel Earnings: 0
+Total Unleaded Earnings: 0
+Total LPG Earnings: 0
+Total fuel disposed: 0
+Total diesel disposed: 0
+Total unleaded disposed: 0
+Total lpg disposed: 0
+
